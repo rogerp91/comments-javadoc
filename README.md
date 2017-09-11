@@ -1,7 +1,10 @@
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
 <html>
 <head>
-    <title>How to Write Doc Comments for Javadoc</title>
+	
+How to Write Doc Comments for Javadoc
+-------
+   
 </head>
 
 <BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#000077" ALINK="#FF0000">
