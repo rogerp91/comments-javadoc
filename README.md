@@ -1,5 +1,3 @@
-{::nomarkdown}
-
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
 <html>
 <head>
@@ -854,6 +852,3 @@ an enhancement for SCCS.
 
 </body>
 </html>
-
-
-{:/}
